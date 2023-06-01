@@ -74,7 +74,6 @@ const gameScore = () => {
 		result = 'Przegrana';
 		whoWin.style.color = 'red';
 	}
-	turnReset();
 };
 
 // WYŚWIETLENIE WYNIKÓW
